@@ -2229,7 +2229,7 @@ COMMENT ON COLUMN "JEECGBOOT"."SYS_DATA_SOURCE"."SYS_ORG_CODE" IS '所属部门'
 -- ----------------------------
 -- Records of SYS_DATA_SOURCE
 -- ----------------------------
-INSERT INTO "JEECGBOOT"."SYS_DATA_SOURCE" VALUES ('1209779538310004737', NULL, 'MySQL5.7', '本地数据库MySQL5.7', '1', 'com.mysql.jdbc.Driver', 'jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false', 'jeecg-boot', 'root', 'root', 'admin', TO_DATE('2019-12-25 18:14:53', 'SYYYY-MM-DD HH24:MI:SS'), NULL, NULL, 'A01');
+INSERT INTO "JEECGBOOT"."SYS_DATA_SOURCE" VALUES ('1209779538310004737', NULL, 'MySQL5.7', '本地数据库MySQL5.7', '1', 'com.mysql.jdbc.Driver', 'jdbc:mysql://192.168.254.130:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false', 'jeecg-boot', 'root', 'root', 'admin', TO_DATE('2019-12-25 18:14:53', 'SYYYY-MM-DD HH24:MI:SS'), NULL, NULL, 'A01');
 
 -- ----------------------------
 -- Table structure for SYS_DEPART

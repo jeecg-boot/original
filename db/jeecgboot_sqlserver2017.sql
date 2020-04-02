@@ -5144,7 +5144,7 @@ GO
 -- ----------------------------
 -- Records of sys_data_source
 -- ----------------------------
-INSERT INTO [dbo].[sys_data_source]  VALUES (N'1209779538310004737', NULL, N'MySQL5.7', N'本地数据库MySQL5.7', N'1', N'com.mysql.jdbc.Driver', N'jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false', N'jeecg-boot', N'root', N'root', N'admin', N'2019-12-25 18:14:53.0000000', NULL, NULL, N'A01')
+INSERT INTO [dbo].[sys_data_source]  VALUES (N'1209779538310004737', NULL, N'MySQL5.7', N'本地数据库MySQL5.7', N'1', N'com.mysql.jdbc.Driver', N'jdbc:mysql://192.168.254.130:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false', N'jeecg-boot', N'root', N'root', N'admin', N'2019-12-25 18:14:53.0000000', NULL, NULL, N'A01')
 GO
 
 
